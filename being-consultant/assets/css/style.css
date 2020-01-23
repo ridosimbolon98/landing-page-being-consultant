@@ -1,0 +1,28 @@
+* {
+    border: 0;
+    padding: 0;
+}
+
+.media-btn {
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.tw {
+    color: whitesmoke;
+}
+
+.question {
+    margin: 0px auto;
+    width: 10vh;
+    height: 10vh;
+    border-radius: 50%;
+    font-size: 25pt;
+    outline-color: #343A40;
+    color: #343A40;
+    align-self: center;
+}
+
+.hc {
+    height: 10rem;
+}
